@@ -47,7 +47,7 @@ Você pode conferir outros projetos que desenvolvi em meu GitHub:
 
 ## Contato
 
-- Email: ian.turcato@hotmail.com  
+- Email: ianturcato@hotmail.com  
 - LinkedIn: [linkedin.com/in/ianturcato](https://linkedin.com/in/ianturcato)  
 - GitHub: [github.com/IanTurcato](https://github.com/IanTurcato)
 
